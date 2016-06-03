@@ -1,8 +1,9 @@
-System.register([], function(exports_1, context_1) {
+System.register(['aurelia-polyfills'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     return {
-        setters:[],
+        setters:[
+            function (_1) {}],
         execute: function() {
         }
     }

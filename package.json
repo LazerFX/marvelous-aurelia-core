@@ -4,7 +4,7 @@
   "author": "Damian Kaminski",
   "license": "MIT",
   "homepage": "http://marvelous.software",
-  "main": "dist/common/core.js",
+  "main": "dist/commonjs/core.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/MarvelousSoftware/marvelous-aurelia-core"
